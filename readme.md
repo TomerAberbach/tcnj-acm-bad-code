@@ -16,4 +16,4 @@ $ python3 bad.py
 
 ## License
 
-[MIT](https://github.com/TomerAberbach/tcnj-acm-bad-code/blob/master/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
+[MIT](https://github.com/TomerAberbach/tcnj-acm-bad-code/blob/main/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
